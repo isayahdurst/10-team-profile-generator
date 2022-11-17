@@ -1,0 +1,31 @@
+{
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "jest": "^29.3.1"
+    },
+    "name": "10-team-profile-generator",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib",
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "jest --watchAll --verbose"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/isayahdurst/10-team-profile-generator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/isayahdurst/10-team-profile-generator/issues"
+    },
+    "homepage": "https://github.com/isayahdurst/10-team-profile-generator#readme",
+    "devDependencies": {
+        "@types/jest": "^29.2.3"
+    }
+}
